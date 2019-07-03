@@ -1,3 +1,10 @@
 map-service
 =============
-> 실행가능한 jar 링크 정보: 
+> 개발 환경
+- JAVA 8
+- Spring Boot
+- Gradle
+- H2
+- Eclipse Oxygen.3
+> 실행가능한 Jar
+: 
